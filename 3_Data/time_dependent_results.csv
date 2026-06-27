@@ -1,0 +1,9 @@
+parameter,value,description
+T_static_final,6.196261e-03,静态势垒最终透射系数
+T_td_final,1.859657e-01,含时势垒最终透射系数
+enhancement_factor,3.001256e+01,透射增强因子
+omega,3.000000e+00,振荡频率
+amplitude,3.000000e-01,振荡振幅
+hbar_omega,3.000000e+00,能量量子(ħω)
+E_plus_hbar_omega,1.550000e+01,吸收一个量子后的能量
+V0,1.500000e+01,势垒高度
